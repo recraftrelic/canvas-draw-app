@@ -20,6 +20,8 @@ Additional information
 * Blob - https://developer.mozilla.org/en-US/docs/Web/API/Blob
 * DataURL - https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs
 
+Website & links
+==============
 
 * My website - [http://manojsinghnegi.com/](http://manojsinghnegi.com/)
 * Follow me on medium - [https://medium.com/@manojsinghnegi](https://medium.com/@manojsinghnegi)
